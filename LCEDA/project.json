@@ -1,0 +1,703 @@
+{
+  "schematics": {
+    "e5006e6097224d1484c033315c43c4c3": {
+      "name": "FRAM Save",
+      "sheets": [
+        {
+          "name": "P1",
+          "id": 1
+        }
+      ]
+    }
+  },
+  "pcbs": {
+    "787f2424be2d4c1bbed597187b16021f": "PCB1"
+  },
+  "panels": {},
+  "symbols": {
+    "17f584f91a0f4368b6fc42113c66a46c": {
+      "source": "e5da1b4fff894f87b113fd8d2f6d6b09",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "TR0603B10KP05250.1W",
+      "version": "1651046353",
+      "type": 2
+    },
+    "206d0284f7ae4dfeb7173f477471404a": {
+      "source": "a103f1805291441b845c9ec0e918df4f",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Memory\",\"NOR FLASH\"]",
+      "title": "S29GL256S10TFI010",
+      "version": "1650356405",
+      "type": 2
+    },
+    "287eea2c9b904fb1b454ce32d158bb19": {
+      "source": "4647f5ac1fdd4ab1a3bd7ca7852eb310",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Memory\",\"NOR FLASH\"]",
+      "title": "S29GL512S10TFI010",
+      "version": "1641818989",
+      "type": 2
+    },
+    "29c6bfc75c3b4025a921003f421a860a": {
+      "source": "02d5d22cb9c54ad8876ac21d6fec67a7",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "10KΩ",
+      "version": "1647715729",
+      "type": 2
+    },
+    "39a3bcc2ed654cfba8ee7e5579b2de81": {
+      "source": "130f5764886a46f88d2b85cd3981dca1",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "10UF_C9900016685",
+      "version": "1658994919",
+      "type": 2
+    },
+    "5498831feab84a2a807d532daf8236bc": {
+      "source": "542d01b8b25e4236a453d7437c3944df",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Ground-GND",
+      "version": "1642995718",
+      "type": 18
+    },
+    "5682e4b53de8497592ff2df382d9d64d": {
+      "source": "164801f538c94e9b98fe375e2e2404e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "100NF/0603/50V",
+      "version": "1658994941",
+      "type": 2
+    },
+    "7c0bf2b1ea80485499409af98f730f83": {
+      "source": "c1b8b751a29345708c24bcef9a67e2b3",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Power-VCC",
+      "version": "1659060554",
+      "type": 18
+    },
+    "bb2f3a74f11a4d679126d37474e43406": {
+      "source": "26d7809810cd46a99ccc53389976fe25",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Memory\",\"FRAM\"]",
+      "title": "MB85R1001ANC-GE1",
+      "version": 1662040486,
+      "type": 2
+    },
+    "bf5a1e6e59274de383a89a6bbf496cc7": {
+      "source": "4ab4779d62b14665a3ea6749799deac0",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Altera-JTAG",
+      "version": "1651069909",
+      "type": 2
+    },
+    "ca095a71eff34221bf560159ba0e5644": {
+      "source": "c1299c7ba1284658b4490cf2bf7f1013",
+      "desc": "",
+      "tags": {
+        "parent_tag": {
+          "uuid": "4f7f3e6f319344138f3fea831f9eebc4",
+          "name": "Cartridge",
+          "name_cn": ""
+        },
+        "child_tag": {
+          "uuid": "d902cbd4fe844f1cb1a151f39123820d",
+          "name": "GBACartridge",
+          "name_cn": ""
+        }
+      },
+      "custom_tags": "[\"Cartridge\",\"GBACartridge\"]",
+      "title": "GBACartridge",
+      "version": "1661773805",
+      "type": 2
+    },
+    "e940d67deed347a882cd6979563c2518": {
+      "source": "f2baecf085944dad81faf9a0fd6bfcea",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]",
+      "title": "Sheet-Symbol_A4",
+      "version": "1661248041",
+      "type": 20
+    },
+    "ed66be57d2ed404ba86ddc7e89540432": {
+      "source": "8153c591ac394c23ac75b6b454c70968",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Single Chip Microcomputer/Microcontroller\",\"Programmable Logic Device (CPLDs/FPGAs)\"]",
+      "title": "EPM3064ATC100-10N",
+      "version": "1644388830",
+      "type": 2
+    }
+  },
+  "footprints": {
+    "1f34bf38fa92457b9e9f2b7aa89487d5": {
+      "title": "CAP-SMD_L2.0-W1.3-FD",
+      "source": "03d43d0146ef4c6c94bb4c5f7ec76471",
+      "version": "1646224023",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-SMD\"]"
+    },
+    "44d23b0f72b843f68f72c8a143a547de": {
+      "title": "R0603",
+      "source": "1a69efb22bcd43fcac6e7816d6eb7a5b",
+      "version": "1651046329",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]"
+    },
+    "4b8930ab2f0644c58975bed2ba939036": {
+      "title": "GBACartridge",
+      "source": "56900da799714af59badeaf23455ccd3",
+      "version": 1662292826,
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]"
+    },
+    "4e43d422063846d6bfacaa765a10ace1": {
+      "title": "TQFP-100_L14.0-W14.0-P0.50-LS16.0-BL",
+      "source": "da676a1916f842a296c548d54ba51671",
+      "version": "1652411023",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"TQFP-100\"]"
+    },
+    "5d49c1a5c7234c19a83664c84ae4b190": {
+      "title": "TSOP-48_L12.4-W12.2-P0.50-LS14.0-BL",
+      "source": "95c103b6d7004827a5e1c7097201a365",
+      "version": "1585908305",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"TSOP-48\"]"
+    },
+    "63ef532b45f54c18ba11bbad4f5dd530": {
+      "title": "TSOP-56_L18.4-W14.0-P0.50-LS20.0-TL",
+      "source": "471b0fd5e09e4385b8976dcbdb592886",
+      "version": "1641630265",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"TSOP-56\"]"
+    },
+    "b7ea72dc044c4270b2fefe6c1487971b": {
+      "title": "C0603",
+      "source": "76d6c29a47804db487f8a92b2621751b",
+      "version": "1652410754",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-SMD\"]"
+    },
+    "c92e2b42843940799017dc96ff29cfbc": {
+      "title": "JTAG-10PIN-2.54MM-PTH",
+      "source": "90176c6730de4adeb8a88379933dfc8f",
+      "version": 1662293001,
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]"
+    },
+    "ce094245322f49d595b5ee3259dd057b": {
+      "title": "JTAG探针烧写",
+      "source": "f9de429de10e4563abd3c3b2633ad247",
+      "version": "1636473422",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]"
+    },
+    "d947e18d52a34e3db8790e227e2bdb88": {
+      "title": "TSOP-56_L14.1-W18.5-P0.50-LS20.2-BL",
+      "source": "da08255b2e86465f93f26921b805522e",
+      "version": "1621652369",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"TSOP-56\"]"
+    }
+  },
+  "devices": {
+    "01908c95a49845d78fb28f9fe9497567": {
+      "title": "S29GL256S10TFI010",
+      "attributes": {
+        "LCSC Part Name": "S29GL256S10TFI010",
+        "Supplier Part": "C1350995",
+        "Manufacturer": "SPANSION(飞索)",
+        "Manufacturer Part": "S29GL256S10TFI010",
+        "Supplier Footprint": "TSOP-56",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20201109/C914940_4A5E28132C9BE0EE19A790F58F84C86D.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "206d0284f7ae4dfeb7173f477471404a",
+        "Designator": "U?",
+        "Footprint": "63ef532b45f54c18ba11bbad4f5dd530",
+        "3D Model": "d9bf270cf7754b04a2fb33f20b59afe6",
+        "3D Model Title": "TSOP-56_L18.4-W14.0-P0.50-LS20.0-TL",
+        "3D Model Transform": "783.5,549.2,0,0,0,0,0,0,0",
+        "Name": "={Manufacturer Part}",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "4a86f643b55c43a281da753bd5976dba",
+      "version": "1650357621",
+      "custom_tags": "[\"Memory\",\"NOR FLASH\"]"
+    },
+    "2350d8a10ba54b5997c6a1d9faa569c1": {
+      "title": "10kω",
+      "attributes": {
+        "LCSC Part Name": "10kΩ ±0.1% 100mW",
+        "Supplier Part": "C188363",
+        "Manufacturer": "EVER OHMS(天二科技)",
+        "Manufacturer Part": "TR0603B10K0P0525Z",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190415/C188363_433BF05B6FB8F7A0F5F35A3E4390C55A.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "17f584f91a0f4368b6fc42113c66a46c",
+        "Designator": "R?",
+        "Footprint": "44d23b0f72b843f68f72c8a143a547de",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "63,31.5,0,0,0,0,0,0,0",
+        "Type": "薄膜电阻",
+        "Value": "10kΩ",
+        "Tolerance": "±0.1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±25ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "电阻类型:薄膜电阻;阻值:10kΩ;精度:±0.1%;功率:100mW;温度系数:±25ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:薄膜电阻;阻值:10kΩ;精度:±0.1%;功率:100mW;温度系数:±25ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "c2232acd3582405ebee796cca5271470",
+      "version": "1651046362",
+      "custom_tags": "[]"
+    },
+    "2f5f8c578bcb46dabc48f5a7e23a918a": {
+      "title": "EPM3064ATC100-10N",
+      "attributes": {
+        "LCSC Part Name": "EPM3064ATC100-10N",
+        "Supplier Part": "C34245",
+        "Manufacturer": "Intel/Altera",
+        "Manufacturer Part": "EPM3064ATC100-10N",
+        "Supplier Footprint": "TQFP-100_14x14x05P",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20140723/1457707156998.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "ed66be57d2ed404ba86ddc7e89540432",
+        "Designator": "U?",
+        "Footprint": "4e43d422063846d6bfacaa765a10ace1",
+        "3D Model": "be0742e1f8a84a979fb0ce0a1b7e640d",
+        "3D Model Title": "TQFP-100_L14.0-W14.0-H1.2-LS16.0-P0.50",
+        "3D Model Transform": "630.452,630.452,0,90,0,0,0.0005,0,0",
+        "Programmable Type": "-",
+        "Number of Logic Elements/Blocks": "-",
+        "Number of Macrocells": "-",
+        "Number of I/O": "-",
+        "Operating Temperature": "-",
+        "Name": "={Manufacturer Part}",
+        "Description": "可编程类型:-;逻辑元件/块数:-;宏单元数:-;I/O 数:-;工作温度:-;"
+      },
+      "description": "可编程类型:-;逻辑元件/块数:-;宏单元数:-;I/O 数:-;工作温度:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "1bc7789b6c854a9281aee533e42d93d0",
+      "version": "1652557932",
+      "custom_tags": "[\"Single Chip Microcomputer/Microcontroller\",\"Programmable Logic Device (CPLDs/FPGAs)\"]"
+    },
+    "2f6226ada0e6461692ac24230fbb71d9": {
+      "title": "10uf",
+      "attributes": {
+        "LCSC Part Name": "10uf",
+        "Supplier Part": "C9900016685",
+        "Manufacturer": "",
+        "Manufacturer Part": "10uf",
+        "Supplier Footprint": "SMD,2x1.25x1.2mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.comnull",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "39a3bcc2ed654cfba8ee7e5579b2de81",
+        "Designator": "U?",
+        "Footprint": "1f34bf38fa92457b9e9f2b7aa89487d5",
+        "3D Model": "1f26856de1634853a779dc49a005d0a1",
+        "3D Model Title": "CAP-SMD_L2.0-W1.3-FD",
+        "3D Model Transform": "78.74,49.2125,0,0,0,0,0,-0.551,0",
+        "Name": "={Manufacturer Part}",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "6bcfe662b92d469dbde3ac3f1d8cf65a",
+      "version": "1654897369",
+      "custom_tags": "[]"
+    },
+    "5472df5c0b9742379d42e0dc2bc90dd5": {
+      "title": "Power-VCC",
+      "attributes": {
+        "Symbol": "7c0bf2b1ea80485499409af98f730f83",
+        "Global Net Name": "VCC",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "b381658129d94456b54f23250ef5a375",
+      "version": "1659060554",
+      "custom_tags": "[]"
+    },
+    "69fce26848674e22b5ffd56e58a22a03": {
+      "title": "MB85R1001ANC-GE1",
+      "attributes": {
+        "LCSC Part Name": "MB85R1001ANC-GE1",
+        "Supplier Part": "C126736",
+        "Manufacturer": "FUJITSU(富士通)",
+        "Manufacturer Part": "MB85R1001ANC-GE1",
+        "Supplier Footprint": "TSOP-48",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20170821/C126736_1503303359319901614.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "bb2f3a74f11a4d679126d37474e43406",
+        "Designator": "U?",
+        "Footprint": "5d49c1a5c7234c19a83664c84ae4b190",
+        "3D Model": "d8e31b4298714dc4aed56f5fcef5ace9",
+        "3D Model Title": "TSOP-48_L12.4-W12.0-H1.2-LS14.0-P0.50",
+        "3D Model Transform": "472.4,551.2,0,0,0,0,0,0,0",
+        "Memory Format": "FRAM",
+        "Memory Size": "1Mb (128K x 8)",
+        "Memory Interface": "Parallel",
+        "Voltage - Supply": "3V ~ 3.6V",
+        "Name": "={Manufacturer Part}",
+        "Description": "存储器容量:1Mb (128K x 8);存储器接口类型:Parallel;工作电压:3V ~ 3.6V;"
+      },
+      "description": "存储器容量:1Mb (128K x 8);存储器接口类型:Parallel;工作电压:3V ~ 3.6V;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "b82349f84ecc4ebb9af849d8a5521f7a",
+      "version": "1649758860",
+      "custom_tags": "[\"Memory\",\"FRAM\"]"
+    },
+    "78ab40fa57474790b6ef784c26f243aa": {
+      "title": "Ground-GND",
+      "attributes": {
+        "Symbol": "5498831feab84a2a807d532daf8236bc"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "9a64ac5790a940f7ae40fc736dc6faff",
+      "version": "1635931210",
+      "custom_tags": "[]"
+    },
+    "977e4698bc374b019ab73d742801efa0": {
+      "title": "Altera-JTAG",
+      "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "no",
+        "Designator": "JTAG?",
+        "Description": "",
+        "Symbol": "bf5a1e6e59274de383a89a6bbf496cc7",
+        "Footprint": "c92e2b42843940799017dc96ff29cfbc"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        ""
+      ],
+      "source": "5d461fb4d5414182a5aa7a7c0fb6130c",
+      "version": 1661959190,
+      "custom_tags": "[]"
+    },
+    "a517f7fdd12d4e988d38fa93bcdabfa3": {
+      "title": "GBACartridge",
+      "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "no",
+        "Designator": "CART?",
+        "Description": "GBA Cartridge",
+        "Symbol": "ca095a71eff34221bf560159ba0e5644",
+        "Footprint": "4b8930ab2f0644c58975bed2ba939036"
+      },
+      "description": "GBA Cartridge",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        "https://image-pro.lceda.cn/pullimages/fbd39e1acb5648f7afdf12ee84524fff.png"
+      ],
+      "source": "329f52f4071744f0b87de5107143708a",
+      "version": 1661876288,
+      "custom_tags": "[\"Cartridge\",\"GBACartridge\"]"
+    },
+    "b18406681608493096cbd7a1d6ce3da0": {
+      "title": "S29GL512S10TFI010",
+      "attributes": {
+        "LCSC Part Name": "S29GL512S10TFI010",
+        "Supplier Part": "C393876",
+        "Manufacturer": "CYPRESS(赛普拉斯)",
+        "Manufacturer Part": "S29GL512S10TFI010",
+        "Supplier Footprint": "TSOP-56",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190517/C393876_1FEEE64776CEF04267E423F5FAD07DD3.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "287eea2c9b904fb1b454ce32d158bb19",
+        "Designator": "U?",
+        "Footprint": "d947e18d52a34e3db8790e227e2bdb88",
+        "3D Model": "93697982a2734cbb8ac90bccdb61610e",
+        "3D Model Title": "TSOP-56_L14.1-W18.5-H1.2-P0.50-LS20.2-BL",
+        "3D Model Transform": "551.2,787.4,0,0,0,0,0,0,0",
+        "Memory Type": "-",
+        "Memory Format": "-",
+        "Technology": "-",
+        "Memory Size": "-",
+        "Clock Frequency": "-",
+        "Byte-Program Time - tBP": "-",
+        "Page Programming Time - tPP": "-",
+        "Memory Interface": "-",
+        "Voltage - Supply": "-",
+        "Operating Temperature": "-",
+        "Name": "={Manufacturer Part}",
+        "Description": "存储器类型:-;存储器构架(格式):-;技术:-;存储器容量:-;时钟频率:-;存储器接口类型:-;"
+      },
+      "description": "存储器类型:-;存储器构架(格式):-;技术:-;存储器容量:-;时钟频率:-;存储器接口类型:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "0ce7e10dca4e40bca4edbbc4d5648c0e",
+      "version": "1654893789",
+      "custom_tags": "[\"Memory\",\"NOR FLASH\"]"
+    },
+    "e4fe01ccb76546d291e8691a04832e5e": {
+      "title": "100nF/0603/50V",
+      "attributes": {
+        "LCSC Part Name": "100nF/0603/50V",
+        "Supplier Part": "C9900013340",
+        "Manufacturer": "",
+        "Manufacturer Part": "100nF/0603/50V",
+        "Supplier Footprint": "C0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.comnull",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "5682e4b53de8497592ff2df382d9d64d",
+        "Designator": "U?",
+        "Footprint": "b7ea72dc044c4270b2fefe6c1487971b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Name": "={Manufacturer Part}",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "811c5a69fad14dfa85c1af699a12c275",
+      "version": "1658174853",
+      "custom_tags": "[]"
+    },
+    "e5a914d7db004e9d838b0ba2b15c72f2": {
+      "title": "Sheet-Symbol_A4",
+      "attributes": {
+        "Symbol": "e940d67deed347a882cd6979563c2518",
+        "@Page Name": "",
+        "@Create Date": "",
+        "@Page Count": "",
+        "@Page No": "",
+        "@Project Name": "",
+        "@Schematic Name": "",
+        "@Update Date": "",
+        "Company": "嘉立创EDA",
+        "Device": "",
+        "Drawed": "",
+        "Page Size": "",
+        "Part Number": "",
+        "Reviewed": "",
+        "Version": "",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "4b872d674c0b4b0e8ede0a73cf1a0316",
+      "version": "1661250150",
+      "custom_tags": "[\"\",\"\"]"
+    },
+    "e5ddce2862d6491caea4fb9dc4d7ae02": {
+      "title": "10KΩ",
+      "attributes": {
+        "Designator": "R4",
+        "Pin Type": "IN",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "29c6bfc75c3b4025a921003f421a860a",
+        "Power": "1/2W",
+        "Value": "10KΩ",
+        "Tolerance": "±1%",
+        "Supplier Part": "C58587",
+        "Supplier": "LCSC",
+        "Manufacturer": "UniOhm",
+        "Manufacturer Part": "MFR0S2F1002A20",
+        "Origin Footprint": "AXIAL-0.5",
+        "Name": "10KΩ",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "e09572de3e0c41798af7822051827c48",
+      "version": "1647715729",
+      "custom_tags": "[]"
+    }
+  },
+  "boards": {
+    "FRAM Save": {
+      "schematic": "e5006e6097224d1484c033315c43c4c3",
+      "pcb": "787f2424be2d4c1bbed597187b16021f"
+    }
+  },
+  "config": {
+    "title": "OpenCartGBA",
+    "cbbProject": false,
+    "defaultSheet": "e5a914d7db004e9d838b0ba2b15c72f2",
+    "editorVersion": "1.8.24"
+  }
+}
