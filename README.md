@@ -11,3 +11,8 @@ Open Source GBA Flashcard
 
 ![3D_PCB1_2022-09-04](https://user-images.githubusercontent.com/8841957/188315351-a636c741-ee37-422e-937b-75860af1a81a.png)
 ![3D_PCB1_2022-09-04 (1)](https://user-images.githubusercontent.com/8841957/188315354-22d37809-fa57-433c-ac82-dd42f9dd21cb.png)
+
+## Shell Design
+
+![3D_PCB1_2022-09-07](https://user-images.githubusercontent.com/8841957/188689928-74fd08bd-443d-4fb9-9af0-f4a9371729f2.png)
+![3D_PCB1_2022-09-07 (1)](https://user-images.githubusercontent.com/8841957/188689935-f47a268a-144a-4a9e-a06c-f6a514bd67f5.png)
