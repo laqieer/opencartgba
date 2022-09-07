@@ -5,14 +5,14 @@ Open Source GBA Flashcard
 
 ## Schematics Design
 
-![SCH_FRAM Save_0-P1_2022-09-05](https://user-images.githubusercontent.com/8841957/188344721-9a72d8ed-c802-471e-a780-80b6e115299f.svg)
+![SCH_FRAM Save_0-P1_2022-09-07](https://user-images.githubusercontent.com/8841957/188891792-62d814c9-e29b-41e1-b254-db97bc43baaf.svg)
 
 ## PCB Design
 
-![3D_PCB1_2022-09-04](https://user-images.githubusercontent.com/8841957/188315351-a636c741-ee37-422e-937b-75860af1a81a.png)
-![3D_PCB1_2022-09-04 (1)](https://user-images.githubusercontent.com/8841957/188315354-22d37809-fa57-433c-ac82-dd42f9dd21cb.png)
+![3D_PCB1_2022-09-07 (2)](https://user-images.githubusercontent.com/8841957/188891885-6f643ee5-d019-4ce4-9486-b370ddd43611.png)
+![3D_PCB1_2022-09-07 (3)](https://user-images.githubusercontent.com/8841957/188891895-5a4c7332-703b-4214-88c0-f5a2afa8254f.png)
 
 ## Shell Design
 
-![3D_PCB1_2022-09-07](https://user-images.githubusercontent.com/8841957/188689928-74fd08bd-443d-4fb9-9af0-f4a9371729f2.png)
-![3D_PCB1_2022-09-07 (1)](https://user-images.githubusercontent.com/8841957/188689935-f47a268a-144a-4a9e-a06c-f6a514bd67f5.png)
+![3D_PCB1_2022-09-07 (4)](https://user-images.githubusercontent.com/8841957/188891935-af04aaf9-1323-4835-8fb7-9ca6999a7270.png)
+![3D_PCB1_2022-09-07 (5)](https://user-images.githubusercontent.com/8841957/188892164-eb9a26ef-dfdd-432d-a9d6-c7365d2c8731.png)
