@@ -5,7 +5,7 @@ Open Source GBA Flashcard
 
 ## Schematics Design
 
-![SCH_FRAM Save_0-P1_2022-09-07](https://user-images.githubusercontent.com/8841957/188891792-62d814c9-e29b-41e1-b254-db97bc43baaf.svg)
+![SCH_FRAM Save_0-P1_2022-09-07 (1)](https://user-images.githubusercontent.com/8841957/188912625-584225e7-0b98-4dfd-98a1-11f7e878e8b6.svg)
 
 ## PCB Design
 
