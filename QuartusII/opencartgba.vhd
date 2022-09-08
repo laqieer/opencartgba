@@ -17,8 +17,8 @@ architecture cart of opencartgba is
 	signal ADDR : std_logic_vector(15 downto 0);
 	signal ADDR_INC : std_logic_vector(15 downto 0);
 begin
-	GBA_RD_WR <= GBA_RD or GBA_WR;
-	process (GBA_CS, GBA_RD_WR, GBA_AD) is
+	GBA_RD_WR <= GBA_RD and GBA_WR;
+	process (GBA_CS, GBA_RD_WR) is
 	begin
 		if GBA_CS = '1' then
 			ADDR <= GBA_AD;
