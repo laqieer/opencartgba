@@ -30,3 +30,5 @@
 !*.sdc
 # tcl files:
 !*.tcl
+# simulation files:
+!*.vwf
