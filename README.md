@@ -10,7 +10,7 @@ Open Source GBA Flashcard
 ## CPLD Design
 
 ![opencartgba](https://user-images.githubusercontent.com/8841957/189177130-217fa861-5370-4174-81e3-7c134ec1b9cf.png)
-![image](https://user-images.githubusercontent.com/8841957/189177323-e04fedd8-9a23-46c2-a241-69cc0cb676ea.png)
+![image](https://user-images.githubusercontent.com/8841957/189181138-3822c6ba-0c7e-4301-9e1a-afbbf37821b4.png)
 
 ## PCB Design
 
