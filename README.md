@@ -7,6 +7,11 @@ Open Source GBA Flashcard
 
 ![SCH_FRAM Save_0-P1_2022-09-07 (1)](https://user-images.githubusercontent.com/8841957/188912625-584225e7-0b98-4dfd-98a1-11f7e878e8b6.svg)
 
+## CPLD Design
+
+![opencartgba](https://user-images.githubusercontent.com/8841957/189177130-217fa861-5370-4174-81e3-7c134ec1b9cf.png)
+![image](https://user-images.githubusercontent.com/8841957/189177323-e04fedd8-9a23-46c2-a241-69cc0cb676ea.png)
+
 ## PCB Design
 
 ![3D_PCB1_2022-09-07 (2)](https://user-images.githubusercontent.com/8841957/188891885-6f643ee5-d019-4ce4-9486-b370ddd43611.png)
