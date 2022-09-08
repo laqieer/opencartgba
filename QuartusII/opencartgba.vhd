@@ -4,10 +4,10 @@ use ieee.numeric_std.all;
 
 entity opencartgba is
 	port (
-		GBA_AD	: in	std_logic_vector(15 downto 0);
-		GBA_CS	: in	std_logic;
-		GBA_RD	: in	std_logic;
-		ROM_A		: out	std_logic_vector(15 downto 0)
+		GBA_AD : in std_logic_vector(15 downto 0);
+		GBA_CS : in std_logic;
+		GBA_RD : in std_logic;
+		ROM_A : out std_logic_vector(15 downto 0)
 	);
 end opencartgba;
 
