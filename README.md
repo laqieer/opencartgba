@@ -5,7 +5,7 @@ Open Source GBA Flashcard
 
 ## Schematics Design
 
-![SCH_FRAM Save_0-P1_2022-09-07 (1)](https://user-images.githubusercontent.com/8841957/188912625-584225e7-0b98-4dfd-98a1-11f7e878e8b6.svg)
+![SCH_FRAM Save_0-P1_2022-09-11](https://user-images.githubusercontent.com/8841957/189497835-9204c0b3-5248-4671-a091-f4bfaaa919e6.svg)
 
 ## CPLD Design
 
@@ -14,10 +14,10 @@ Open Source GBA Flashcard
 
 ## PCB Design
 
-![3D_PCB1_2022-09-07 (2)](https://user-images.githubusercontent.com/8841957/188891885-6f643ee5-d019-4ce4-9486-b370ddd43611.png)
-![3D_PCB1_2022-09-07 (3)](https://user-images.githubusercontent.com/8841957/188891895-5a4c7332-703b-4214-88c0-f5a2afa8254f.png)
+![3D_PCB1_2022-09-11](https://user-images.githubusercontent.com/8841957/189497846-63b8bf31-1949-4779-8fc4-9bf090cba219.png)
+![3D_PCB1_2022-09-11 (1)](https://user-images.githubusercontent.com/8841957/189497849-1065234c-894d-4835-8533-e59f4002db1a.png)
 
 ## Shell Design
 
-![3D_PCB1_2022-09-07 (4)](https://user-images.githubusercontent.com/8841957/188891935-af04aaf9-1323-4835-8fb7-9ca6999a7270.png)
-![3D_PCB1_2022-09-07 (5)](https://user-images.githubusercontent.com/8841957/188892164-eb9a26ef-dfdd-432d-a9d6-c7365d2c8731.png)
+![3D_PCB1_2022-09-11 (2)](https://user-images.githubusercontent.com/8841957/189497858-0fac3b5a-6d8b-43a7-89ac-a9746822c3f3.png)
+![3D_PCB1_2022-09-11 (3)](https://user-images.githubusercontent.com/8841957/189497861-6610d79e-9ca2-4e90-9711-c06836627dc2.png)
