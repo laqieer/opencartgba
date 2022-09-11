@@ -14,12 +14,12 @@ Open Source GBA Flashcard
 
 ## PCB Design
 
-![3D_PCB1_2022-09-11](https://user-images.githubusercontent.com/8841957/189497846-63b8bf31-1949-4779-8fc4-9bf090cba219.png)
-![3D_PCB1_2022-09-11 (1)](https://user-images.githubusercontent.com/8841957/189497849-1065234c-894d-4835-8533-e59f4002db1a.png)
+![3D_PCB1_2022-09-11 (5)](https://user-images.githubusercontent.com/8841957/189511053-e0c6fb90-ae75-40be-8a38-282ff4aaaa92.png)
+![3D_PCB1_2022-09-11 (6)](https://user-images.githubusercontent.com/8841957/189511057-156e9473-d357-4ff2-8f3c-e9ebd60dde4a.png)
 
 ## BOM
 
-![3D_PCB1_2022-09-11 (4)](https://user-images.githubusercontent.com/8841957/189508536-880b6f3f-0f4d-464e-93c0-b9593a06c6dc.png)
+![3D_PCB1_2022-09-11 (7)](https://user-images.githubusercontent.com/8841957/189511060-3b1edc65-4567-4b54-8b3b-69786cc8ea06.png)
 
 |Name             |Quantity|Designator          |Footprint                           |Pins|Datasheet                                                                                             |
 |-----------------|--------|--------------------|------------------------------------|----|------------------------------------------------------------------------------------------------------|
@@ -32,5 +32,5 @@ Open Source GBA Flashcard
 
 ## Shell Design
 
-![3D_PCB1_2022-09-11 (2)](https://user-images.githubusercontent.com/8841957/189497858-0fac3b5a-6d8b-43a7-89ac-a9746822c3f3.png)
-![3D_PCB1_2022-09-11 (3)](https://user-images.githubusercontent.com/8841957/189497861-6610d79e-9ca2-4e90-9711-c06836627dc2.png)
+![3D_PCB1_2022-09-11 (8)](https://user-images.githubusercontent.com/8841957/189511063-97d36eff-dad2-4b5a-8ee7-1f29cd2cb372.png)
+![3D_PCB1_2022-09-11 (9)](https://user-images.githubusercontent.com/8841957/189511064-87afa753-0409-4f3c-a20f-91ce89a475c4.png)
