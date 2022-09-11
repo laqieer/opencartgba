@@ -547,14 +547,15 @@
     "b1508058c7b143dca4f6c0c8d09b65b5": {
       "title": "jtag",
       "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "no",
         "Designator": "XP?",
         "Comment": "jtag",
-        "Value": "JTAG",
-        "Add into BOM": "yes",
-        "Convert to PCB": "yes",
-        "Symbol": "52ab7d8a4d0f4105b52a5ead4cab5da0",
         "Description": "",
-        "Footprint": ""
+        "Value": "JTAG",
+        "Name": "",
+        "Symbol": "52ab7d8a4d0f4105b52a5ead4cab5da0",
+        "Footprint": "447ee8ea4d4b4dd6b83cbb054ac7e9ab"
       },
       "description": "",
       "tags": {
@@ -565,7 +566,7 @@
         ""
       ],
       "source": "316b086e7ed74227bda4046c0732fa26",
-      "version": "1631107564",
+      "version": 1662859989,
       "custom_tags": "[]"
     },
     "b18406681608493096cbd7a1d6ce3da0": {
