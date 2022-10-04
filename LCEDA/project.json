@@ -232,7 +232,7 @@
     "4b8930ab2f0644c58975bed2ba939036": {
       "title": "GBACartridge",
       "source": "56900da799714af59badeaf23455ccd3",
-      "version": 1662865056,
+      "version": 1664849763,
       "type": 4,
       "desc": "",
       "tags": {
@@ -745,6 +745,6 @@
     "title": "OpenCartGBA",
     "cbbProject": false,
     "defaultSheet": "e5a914d7db004e9d838b0ba2b15c72f2",
-    "editorVersion": "1.8.26"
+    "editorVersion": "1.8.35"
   }
 }
